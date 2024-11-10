@@ -69,8 +69,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Hey"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Hey" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thedhanushp&show_icons=true&locale=en&layout=compact" alt="thedhanushp" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhanush-OnGit&show_icons=true&locale=en&layout=compact" alt="Dhanush-OnGit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thedhanushp&show_icons=true&locale=en" alt="thedhanushp" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dhanush-OnGit&show_icons=true&locale=en" alt="Dhanush-OnGit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thedhanushp&" alt="thedhanushp" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanush-OnGit&" alt="Dhanush-OnGit" /></p>
