@@ -45,7 +45,7 @@
 
 - 👯 I’m looking to collaborate on **Artificial Intelligence & Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Thedhanushp](https://github.com/Thedhanushp)
+- 👨‍💻 All of my projects are available at [https://github.com/Dhanush-OnGit](https://github.com/Dhanush-OnGit)
 
 - 💬 Ask me about **Share your motivation and what sparked your interest in these fields**
 
