@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhanush p</h1>
+<h1 align="center">Hi, I'm Dhanush p</h1>
 <h2 align="left">Hi 👋 My name is Dhanush and I'm from India</h2>
 <h3 align="center">Artificial Intelligence & Machine Learning Enthusiast | Building the Future, One Algorithm at a Time</h3>
 
