@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Dhanush p</h1>
 <h2 align="left">Hi 👋 My name is Dhanush and I'm from India</h2>
-<h3 align="center">Artificial Intelligence & Machine Learning Enthusiast | Building the Future, One Algorithm at a Time</h3>
+<h3 align="center">AI & ML Enthusiast | Python Developer | Passionate about building intelligent solutions</h3>
 
 ###
 
@@ -39,7 +39,7 @@
 
 ###
 
-- 🔭 I’m currently a **Dedicated student exploring the fields of Artificial Intelligence & Machine Learning(AL/ML).**
+- 🔭 Artificial Intelligence & Machine Learning graduate with strong interest in AI development, Python programming, and emerging technologies. Seeking opportunities to apply technical skills in real-world projects and grow as an AI engineer.**
 
 - 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
 
