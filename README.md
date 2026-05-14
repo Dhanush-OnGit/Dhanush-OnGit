@@ -39,11 +39,11 @@
 
 ###
 
-- 🔭 Artificial Intelligence & Machine Learning graduate with strong interest in AI development, Python programming, and emerging technologies. Seeking opportunities to apply technical skills in real-world projects and grow as an AI engineer.**
+- 🔭 Artificial Intelligence & Machine Learning graduate with strong interest in AI development, Python programming, and emerging technologies. Seeking opportunities to           apply technical skills in real-world projects and grow as an AI engineer.**
 
-- 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
+- 🌱 Currently exploring Artificial Intelligence, Machine Learning, Deep Learning, and NLP**
 
-- 👯 I’m looking to collaborate on **Artificial Intelligence & Machine Learning**
+- 👯 Open to collaborating on AI & ML projects and innovative software solutions**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dhanush-OnGit](https://github.com/Dhanush-OnGit)
 
