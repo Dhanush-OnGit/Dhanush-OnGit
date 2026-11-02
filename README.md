@@ -1,174 +1,204 @@
 
-<!-- =============== ANIMATED HEADER =============== -->
+<!-- ===================================================== -->
+<!--                    PREMIUM HEADER                      -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:5B21B6,100:00D9FF&height=220&section=header&text=Dhanush%20P&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descSize=20&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E3A8A,100:0F172A&height=180&section=header&text=Dhanush%20P&fontSize=55&fontColor=FFFFFF&fontAlignY=45&desc=Python%20Developer%20%7C%20Django%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descSize=17&descAlignY=70&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Intelligent+Applications;Python+%7C+Django+%7C+Machine+Learning;Turning+Ideas+Into+Code;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Reliable+Backend+Applications;Exploring+Artificial+Intelligence;Turning+Ideas+Into+Working+Solutions" />
+
+<br/>
+
+<a href="https://github.com/Dhanush-OnGit">
+<img src="https://komarev.com/ghpvc/?username=Dhanush-OnGit&style=flat-square&color=2563EB&label=PROFILE+VIEWS"/>
+</a>
+
+<a href="https://github.com/Dhanush-OnGit?tab=followers">
+<img src="https://img.shields.io/github/followers/Dhanush-OnGit?style=flat-square&color=2563EB&label=Followers"/>
+</a>
 
 </div>
 
 ---
 
-<!-- =============== ABOUT =============== -->
+<!-- ===================================================== -->
+<!--                      ABOUT ME                          -->
+<!-- ===================================================== -->
 
-## ◈ About Me
+## About Me
 
-```python
-class Dhanush:
-    def __init__(self):
-        self.name = "Dhanush P"
-        self.education = "B.Tech AI & ML"
-        self.college = "Mangalam College of Engineering"
-        self.experience = "Luminar Technolab"
-        self.role = ["Python Developer", "AI/ML Enthusiast"]
-        self.currently_learning = ["Django", "DRF", "Full Stack"]
-        self.interests = ["AI", "ML", "Deep Learning", "NLP"]
-        self.goal = "Build intelligent solutions"
-    
-    def say_hi(self):
-        print("Let's build something amazing!")
+<img align="right" width="270" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-me = Dhanush()
-me.say_hi()
-```
+I'm a **Python Developer and AI/ML enthusiast** passionate about building practical software applications and exploring intelligent technologies.
+
+- 🎓 B.Tech in Artificial Intelligence and Machine Learning
+- 🏫 Mangalam College of Engineering
+- 💻 Focused on Python, Django & REST API Development
+- 🤖 Interested in Machine Learning, Deep Learning & NLP
+- 📚 Currently developing my Full Stack Development skills
+- 🏢 Learning and developing technical skills through Luminar Technolab
+- 🤝 Open to collaboration and entry-level opportunities
+
+<br clear="right"/>
 
 ---
 
-<!-- =============== TECH STACK =============== -->
+<!-- ===================================================== -->
+<!--                   TECHNICAL SKILLS                     -->
+<!-- ===================================================== -->
 
-## ◈ Tech Stack
+## Technical Skills
 
 <div align="center">
 
-### Languages
+### Programming Languages
+
 <img src="https://skillicons.dev/icons?i=python,c,html,css,js"/>
 
 ### Backend & Database
+
 <img src="https://skillicons.dev/icons?i=django,mysql,sqlite,postman"/>
 
-### AI / ML
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv"/>
-<br/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn"/>
+### AI & Machine Learning
 
-### Tools
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+
+### Development Tools
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda"/>
 
 </div>
 
 ---
 
-<!-- =============== PROJECTS =============== -->
+<!-- ===================================================== -->
+<!--                     PROJECTS                           -->
+<!-- ===================================================== -->
 
-## ◈ Projects
+## Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### 🧾 Expense Tracker
-
-A Django-based application for tracking expenses and managing financial records.
+<div align="center">
 
 <a href="https://github.com/Dhanush-OnGit/django_expenceTracker_project">
-<img src="https://img.shields.io/badge/Explore-8B5CF6?style=for-the-badge&logo=github"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhanush-OnGit&repo=django_expenceTracker_project&theme=transparent&hide_border=true"/>
 </a>
-
-</td>
-<td width="50%">
-
-### ✅ Task Manager
-
-A Django application to create, organize, and manage daily tasks.
 
 <a href="https://github.com/Dhanush-OnGit/django_taskApp_project">
-<img src="https://img.shields.io/badge/Explore-06B6D4?style=for-the-badge&logo=github"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhanush-OnGit&repo=django_taskApp_project&theme=transparent&hide_border=true"/>
 </a>
 
-</td>
-</tr>
-</table>
+</div>
+
+### Django Expense Tracker
+A personal finance management application built with Django to record expenses and organize financial transactions.
+
+### Django Task App
+A task management application designed to create, organize, and track daily activities.
+
+### AI & Machine Learning Projects
+Developing intelligent applications involving machine learning, deep learning, computer vision, and NLP.
 
 <div align="center">
 
 <a href="https://github.com/Dhanush-OnGit?tab=repositories">
-<img src="https://img.shields.io/badge/More_Projects-View_Repositories-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Explore_All_Projects-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-<!-- =============== GITHUB STATS =============== -->
+<!-- ===================================================== -->
+<!--                   GITHUB ANALYTICS                      -->
+<!-- ===================================================== -->
 
-## ◈ GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dhanush-OnGit&show_icons=true&theme=midnight-purple&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dhanush-OnGit&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush-OnGit&layout=compact&theme=midnight-purple&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush-OnGit&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8"/>
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Dhanush-OnGit&theme=midnight-purple&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=Dhanush-OnGit&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
 
 </div>
 
 ---
 
-<!-- =============== CONTRIBUTIONS =============== -->
+<!-- ===================================================== -->
+<!--                  CONTRIBUTION GRAPH                     -->
+<!-- ===================================================== -->
 
-## ◈ Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanush-OnGit&theme=react-dark&hide_border=true&area=true"/>
-
-<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 
 </div>
 
 ---
 
-<!-- =============== CONNECT =============== -->
+<!-- ===================================================== -->
+<!--                   ACTIVITY GRAPH                       -->
+<!-- ===================================================== -->
 
-## ◈ Let's Connect
+## Development Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanush-OnGit&bg_color=00000000&color=38BDF8&line=2563EB&point=60A5FA&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+<!-- ===================================================== -->
+<!--                     CONNECT                            -->
+<!-- ===================================================== -->
+
+## Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/dhanush-p-5169a2254/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:thedhanush623@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-06B6D4?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-Contact-334155?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Dhanush-OnGit">
-<img src="https://img.shields.io/badge/GitHub-Follow-FFFFFF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Dhanush-OnGit&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-<!-- =============== FOOTER =============== -->
+<!-- ===================================================== -->
+<!--                      FOOTER                            -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:5B21B6,100:090014&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0F172A&height=100&section=footer"/>
 
-### `while(alive) { learn(); build(); repeat(); }`
+### *Code. Learn. Build. Repeat.*
 
-**Thanks for visiting my profile ✨**
+<sub>Designed with passion by Dhanush P</sub>
 
 </div>
