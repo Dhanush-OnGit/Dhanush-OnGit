@@ -1,172 +1,168 @@
 
 <!-- ===================== HEADER ===================== -->
 
-<div align="center">
+<h1 align="center">👋 Hey, I'm Dhanush P</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=170&section=header&text=Dhanush%20P&fontSize=55&fontColor=34D399&fontAlignY=45&desc=Python%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=72&descSize=18&animation=fadeIn" width="100%"/>
+<h3 align="center">
+  Python Developer | Django Developer | AI & ML Enthusiast
+</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=900&color=34D399&center=true&vCenter=true&width=650&lines=Building+with+Python+%26+Django;Exploring+Artificial+Intelligence;Learning+Machine+Learning;Turning+Ideas+into+Code" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Python+%26+Django+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Intelligent+Solutions;Learning+%26+Growing+Every+Day!" alt="Typing SVG" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dhanush-OnGit&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
-<!-- ===================== PROFILE ===================== -->
+<!-- ===================== ABOUT ME ===================== -->
 
-## `whoami` — About Me
+## 🚀 About Me
 
-```python
-class Developer:
-    name = "Dhanush P"
-    role = "Python Developer"
-    education = "B.Tech AI & ML"
-    college = "Mangalam College of Engineering"
-    training = "Luminar Technolab"
+🎓 B.Tech in Artificial Intelligence and Machine Learning from Mangalam College of Engineering.
 
-    interests = [
-        "Backend Development",
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Deep Learning",
-        "Computer Vision"
-    ]
+💻 Passionate about Python programming, backend development, and intelligent applications.
 
-    currently_learning = [
-        "Django REST Framework",
-        "Full Stack Development",
-        "AI Applications"
-    ]
-```
+🌱 Currently learning **Full Stack Development with Python, Django, and Django REST Framework**.
+
+🤖 Interested in Artificial Intelligence, Machine Learning, Deep Learning, and NLP.
+
+🏢 Learning and developing technical skills through **Luminar Technolab**.
+
+🔭 Building REST APIs and practical Django applications.
+
+🤝 Open to collaborating on Python, Django, AI & ML projects.
+
+📫 Reach me at **[thedhanush623@gmail.com](mailto:thedhanush623@gmail.com)**
+
+⚡ My goal is to build impactful software and intelligent solutions.
 
 ---
 
 <!-- ===================== CONNECT ===================== -->
 
-## `connect --with-me`
+## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://github.com/Dhanush-OnGit">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=34D399"/>
-</a>
-<a href="https://www.linkedin.com/in/dhanush-p-5169a2254/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=34D399"/>
-</a>
-<a href="mailto:thedhanush623@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=34D399"/>
-</a>
+<p align="center">
+  <a href="https://github.com/Dhanush-OnGit">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dhanush-p-5169a2254/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:thedhanush623@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <!-- ===================== TECH STACK ===================== -->
 
-## `tech --stack`
+## 💻 Languages & Technologies
 
-### Languages
+### Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,html,css,js&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js" />
 </p>
 
-### Frameworks & Libraries
+### Backend Development
 <p>
-<img src="https://skillicons.dev/icons?i=django,tensorflow,opencv&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=django,django,sqlite,mysql,postman" />
 </p>
 
+### AI & Machine Learning
 <p>
-<img src="https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=34D399"/>
-<img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=34D399"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=34D399"/>
-<img src="https://img.shields.io/badge/REST_API-0D1117?style=flat-square&logo=fastapi&logoColor=34D399"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
-### Database & Tools
+### Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
 </p>
 
 ---
 
 <!-- ===================== PROJECTS ===================== -->
 
-## `projects --featured`
+## 📌 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+### 🧾 Django Expense Tracker
+A Django application for managing personal expenses, tracking transactions, and organizing financial records.
 
-### Expense Tracker
+### ✅ Django Task App
+A task management application that allows users to create, manage, and track their daily tasks.
 
-A Django-based application to manage expenses, track spending, and organize financial records.
+### 🤖 AI & ML Projects
+Developing intelligent applications using Python, Machine Learning, Deep Learning, and computer vision.
 
-<a href="https://github.com/Dhanush-OnGit/django_expenceTracker_project">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-34D399?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+<p align="center">
+  <a href="https://github.com/Dhanush-OnGit/django_expenceTracker_project">
+    <img src="https://img.shields.io/badge/Expense_Tracker-View_Project-2ea44f?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://github.com/Dhanush-OnGit/django_taskApp_project">
+    <img src="https://img.shields.io/badge/Task_App-View_Project-0078D4?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
-</td>
-<td width="50%">
-
-### Task Management App
-
-A Django application for creating, managing, and tracking daily tasks.
-
-<a href="https://github.com/Dhanush-OnGit/django_taskApp_project">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-34D399?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Dhanush-OnGit?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-<!-- ===================== GITHUB ANALYTICS ===================== -->
+<!-- ===================== GITHUB STATS ===================== -->
 
-## `github --analytics`
+## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhanush-OnGit&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush-OnGit&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dhanush-OnGit&show_icons=true&theme=transparent&title_color=34D399&icon_color=34D399&text_color=C9D1D9&border_color=30363D&hide_border=false"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush-OnGit&layout=compact&theme=transparent&title_color=34D399&text_color=C9D1D9&border_color=30363D"/>
-
-<img src="https://streak-stats.demolab.com?user=Dhanush-OnGit&theme=transparent&ring=34D399&fire=34D399&currStreakLabel=34D399&sideLabels=C9D1D9&dates=8B949E&border=30363D"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dhanush-OnGit&theme=tokyonight&hide_border=true" width="70%"/>
+</p>
 
 ---
 
 <!-- ===================== CONTRIBUTIONS ===================== -->
 
-## `git --contributions`
+## 🐍 Contribution Graph
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Dhanush-OnGit/Dhanush-OnGit/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
+</p>
 
 ---
 
 <!-- ===================== ACTIVITY ===================== -->
 
-## `activity --graph`
+## 📈 GitHub Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanush-OnGit&bg_color=0D1117&color=34D399&line=059669&point=34D399&area=true&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanush-OnGit&theme=tokyo-night&hide_border=true" width="100%"/>
+</p>
 
 ---
 
 <!-- ===================== FOOTER ===================== -->
 
-<div align="center">
+<h3 align="center">
+  💡 "Code. Learn. Build. Repeat."
+</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer"/>
+<p align="center">
+  Thanks for visiting my profile! 😊
+</p>
 
-### `while(alive) { code(); learn(); build(); }`
-
-<img src="https://komarev.com/ghpvc/?username=Dhanush-OnGit&style=flat-square&color=34D399&label=PROFILE+VIEWS"/>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0078D4&height=100&section=footer"/>
+</p>
